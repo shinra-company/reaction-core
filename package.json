@@ -4,7 +4,8 @@
   "description": "Add snazzy menus to your bot's messages using Discord's reaction system.",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "https://github.com/discordjs/discord.js.git",
+    "discord.js-commando": "https://github.com/discordjs/Commando.git"
   },
   "devDependencies": {},
   "scripts": {
